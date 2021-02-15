@@ -1,0 +1,13 @@
+C:\Programering\prov del 1\prov del 1\bin\Debug\netcoreapp3.1\prov del 1.exe
+C:\Programering\prov del 1\prov del 1\bin\Debug\netcoreapp3.1\prov del 1.deps.json
+C:\Programering\prov del 1\prov del 1\bin\Debug\netcoreapp3.1\prov del 1.runtimeconfig.json
+C:\Programering\prov del 1\prov del 1\bin\Debug\netcoreapp3.1\prov del 1.runtimeconfig.dev.json
+C:\Programering\prov del 1\prov del 1\bin\Debug\netcoreapp3.1\prov del 1.dll
+C:\Programering\prov del 1\prov del 1\bin\Debug\netcoreapp3.1\prov del 1.pdb
+C:\Programering\prov del 1\prov del 1\obj\Debug\netcoreapp3.1\prov del 1.csprojAssemblyReference.cache
+C:\Programering\prov del 1\prov del 1\obj\Debug\netcoreapp3.1\prov del 1.AssemblyInfoInputs.cache
+C:\Programering\prov del 1\prov del 1\obj\Debug\netcoreapp3.1\prov del 1.AssemblyInfo.cs
+C:\Programering\prov del 1\prov del 1\obj\Debug\netcoreapp3.1\prov del 1.csproj.CoreCompileInputs.cache
+C:\Programering\prov del 1\prov del 1\obj\Debug\netcoreapp3.1\prov del 1.dll
+C:\Programering\prov del 1\prov del 1\obj\Debug\netcoreapp3.1\prov del 1.pdb
+C:\Programering\prov del 1\prov del 1\obj\Debug\netcoreapp3.1\prov del 1.genruntimeconfig.cache
